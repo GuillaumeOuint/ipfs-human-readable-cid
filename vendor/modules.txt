@@ -1,0 +1,52 @@
+# github.com/ipfs/go-cid v0.5.0
+## explicit; go 1.22
+github.com/ipfs/go-cid
+# github.com/klauspost/cpuid/v2 v2.2.10
+## explicit; go 1.22
+github.com/klauspost/cpuid/v2
+# github.com/minio/sha256-simd v1.0.1
+## explicit; go 1.17
+github.com/minio/sha256-simd
+# github.com/mr-tron/base58 v1.2.0
+## explicit; go 1.12
+github.com/mr-tron/base58/base58
+# github.com/multiformats/go-base32 v0.1.0
+## explicit; go 1.18
+github.com/multiformats/go-base32
+# github.com/multiformats/go-base36 v0.2.0
+## explicit; go 1.18
+github.com/multiformats/go-base36
+# github.com/multiformats/go-multibase v0.2.0
+## explicit; go 1.19
+github.com/multiformats/go-multibase
+# github.com/multiformats/go-multihash v0.2.3
+## explicit; go 1.19
+github.com/multiformats/go-multihash
+github.com/multiformats/go-multihash/core
+github.com/multiformats/go-multihash/register/all
+github.com/multiformats/go-multihash/register/blake2
+github.com/multiformats/go-multihash/register/blake3
+github.com/multiformats/go-multihash/register/miniosha256
+github.com/multiformats/go-multihash/register/murmur3
+github.com/multiformats/go-multihash/register/sha256
+github.com/multiformats/go-multihash/register/sha3
+# github.com/multiformats/go-varint v0.0.7
+## explicit; go 1.18
+github.com/multiformats/go-varint
+# github.com/spaolacci/murmur3 v1.1.0
+## explicit
+github.com/spaolacci/murmur3
+# golang.org/x/crypto v0.38.0
+## explicit; go 1.23.0
+golang.org/x/crypto/blake2b
+golang.org/x/crypto/blake2s
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.33.0
+## explicit; go 1.23.0
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
+# lukechampine.com/blake3 v1.4.1
+## explicit; go 1.22
+lukechampine.com/blake3
+lukechampine.com/blake3/bao
+lukechampine.com/blake3/guts
